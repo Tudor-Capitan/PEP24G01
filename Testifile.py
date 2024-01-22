@@ -1,0 +1,5 @@
+print ('_________', end='\n')
+print ('|       |', end='\n')
+print ('|       |', end='\n')
+print ('|       |', end='\n')
+print ('_________', end='\n'.)
